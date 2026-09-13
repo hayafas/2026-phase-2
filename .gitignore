@@ -10,3 +10,8 @@
 
 # .envをgitignoreする
 .env
+
+# menter関連はignoreしますわよ
+/menter/
+AGENTS.md
+config.toml
